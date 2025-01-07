@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 const fizzbuzz = require('./fizzbuzz')
 
 describe('FizzBuzz', () => {
